@@ -1,0 +1,37 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "br.com.santander"
+    },
+    "jhipsterVersion": "6.0.1",
+    "applicationType": "gateway",
+    "baseName": "ProjetoParaTeste",
+    "packageName": "br.com.santander",
+    "packageFolder": "br/com/santander",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mariadb",
+    "prodDatabaseType": "mariadb",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ODFiZmY0MTYyYmNmOTIwYjE3MDdhYWNjYmQ3MWU3Yjc2MjBhMWNjZTVkYmNjYWZlNWNmMjdmMTcwYmZlZGY2YTBlNTc2ZTVmYjQ4OTQ0NjFlNmJkNzM0YzcwYmI1YjllZTg0YTk4Y2Y5MDk3ZDI0YTk0YmFlMGE0NjU2YmQ5NjA=",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false
+  }
+}
